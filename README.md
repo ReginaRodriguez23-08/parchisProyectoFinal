@@ -2,6 +2,9 @@
 Equipo: Parchis  
 Integrantes: Aldo Soria, Regina Rodríguez y Juan Manuel Ambriz  
 Repositorio para el proyecto final de Ingenieria de Software  
+
+## [Software Requirements](Requerimientos.pdf)
+
 ## Arquitectura
 La arquitectura seleccionada para este proyecto es basada en eventos (event-driven), ya que es la más adecuada para un chatbot desarrollado en Landbot.io que guía a nuevos estudiantes del ITAM a través de WhatsApp. Esta decisión se fundamenta en la reactividad de los chatbots, donde cada interacción del usuario genera un evento que desencadena procesos específicos. La arquitectura basada en eventos permite manejar estas interacciones de manera eficiente, escalable y modular, aprovechando las capacidades de Landbot.io como núcleo.
 ## Justificación de la Arquitectura
@@ -18,3 +21,5 @@ Elegimos Agile por las siguientes razones:
 1.	Iteración y mejora continua: El desarrollo en sprints permite implementar funcionalidades básicas desde el inicio (como los flujos principales de conversación en Landbot.io) y mejorarlas en versiones posteriores.
 2.	Flexibilidad: La metodología se adapta fácilmente a cambios en los requisitos, como nuevos flujos de conversación o la integración de tecnologías adicionales.
 3.	Entrega temprana funcional: Las funcionalidades esenciales del chatbot pueden ponerse en funcionamiento rápidamente, mientras se sigue trabajando en optimizaciones y mejoras.
+
+## Propuesta Económica
