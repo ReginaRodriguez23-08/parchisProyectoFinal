@@ -18,3 +18,5 @@ Elegimos Agile por las siguientes razones:
 1.	Iteración y mejora continua: El desarrollo en sprints permite implementar funcionalidades básicas desde el inicio (como los flujos principales de conversación en Landbot.io) y mejorarlas en versiones posteriores.
 2.	Flexibilidad: La metodología se adapta fácilmente a cambios en los requisitos, como nuevos flujos de conversación o la integración de tecnologías adicionales.
 3.	Entrega temprana funcional: Las funcionalidades esenciales del chatbot pueden ponerse en funcionamiento rápidamente, mientras se sigue trabajando en optimizaciones y mejoras.
+
+## Propuesta Económica
