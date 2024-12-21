@@ -26,7 +26,7 @@ Elegimos Agile por las siguientes razones:
 
 ## Código del proyecto: ([parchisProyectoFinal/Código proyecto/](https://github.com/ReginaRodriguez23-08/parchisProyectoFinal/tree/a939e3b63fbf73088ba64f3174e7ab8366cdc408/C%C3%B3digo%20proyecto))
 
-## [Documentación para replicar](DocumentaciónParaReplicar.docx)
+## [Documentación para replicar](DocumentacionParaReplicar.pdf)
 
 ## [Propuesta Económica](PropuestaEconomica.xlsx)
 
