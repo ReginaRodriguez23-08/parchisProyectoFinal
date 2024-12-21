@@ -24,7 +24,8 @@ Elegimos Agile por las siguientes razones:
 2.	Flexibilidad: La metodología se adapta fácilmente a cambios en los requisitos, como nuevos flujos de conversación o la integración de tecnologías adicionales.
 3.	Entrega temprana funcional: Las funcionalidades esenciales del chatbot pueden ponerse en funcionamiento rápidamente, mientras se sigue trabajando en optimizaciones y mejoras.
 
-## [Código del proyecto](Código proyecto)
+## Código del proyecto: ([parchisProyectoFinal/Código proyecto/](https://github.com/ReginaRodriguez23-08/parchisProyectoFinal/tree/a939e3b63fbf73088ba64f3174e7ab8366cdc408/C%C3%B3digo%20proyecto))
 
-## [Documentación para replicar](Documentación para replicar.docx)
+## [Documentación para replicar](DocumentaciónParaReplicar.docx)
+
 ## Propuesta Económica
