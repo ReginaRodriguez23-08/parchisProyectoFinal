@@ -28,6 +28,6 @@ Elegimos Agile por las siguientes razones:
 
 ## [Documentación para replicar](DocumentaciónParaReplicar.docx)
 
-## Propuesta Económica
+## [Propuesta Económica](PropuestaEconomica.xlsx)
 
 ## [Presentación](Presentacion.pdf)
