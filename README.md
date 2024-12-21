@@ -8,11 +8,11 @@ Repositorio para el proyecto final de Ingenieria de Software
 ## [Plan de calidad](PlandeCalidad.pdf) 
 
 ## Arquitectura
-La arquitectura seleccionada para este proyecto es basada en eventos (event-driven), ya que es la más adecuada para un chatbot desarrollado en Landbot.io que guía a nuevos estudiantes del ITAM a través de WhatsApp. Esta decisión se fundamenta en la reactividad de los chatbots, donde cada interacción del usuario genera un evento que desencadena procesos específicos. La arquitectura basada en eventos permite manejar estas interacciones de manera eficiente, escalable y modular, aprovechando las capacidades de Landbot.io como núcleo.
+La arquitectura seleccionada para este proyecto es una combinación de microservicios y una arquitectura basada en eventos (event-driven), ya que es la más adecuada para un chatbot desarrollado en Landbot.io que guía a nuevos estudiantes del ITAM a través de WhatsApp. Esta decisión se fundamenta en la reactividad de los chatbots, donde cada interacción del usuario genera un evento que desencadena procesos específicos. Este enfoque proporciona un sistema modular, escalable y eficiente. La integración de estas dos arquitecturas permite dividir el sistema en componentes independientes (microservicios) que se comunican a través de eventos, garantizando un alto desempeño y flexibilidad en el manejo de muchas interacciones.
 ## Justificación de la Arquitectura
-Elegimos la arquitectura basada en eventos por las siguientes razones:
+Elegimos esta arquitectura por las siguientes razones:
 1.	**Compatibilidad con Landbot.io:** Landbot.io utiliza webhooks para generar eventos cuando el usuario hace una acción, facilitando la integración con otros servicios.
-2.	**Independencia:** Los componentes del sistema funcionan de manera independiente, reaccionando únicamente a eventos relevantes.
+2.	**Independencia:** Los componentes y microservicios del sistema funcionan de manera independiente, reaccionando únicamente a eventos relevantes.
 3.	**Escalabilidad:** Permite manejar múltiples interacciones concurrentes, lo cual es ideal si el chatbot debe responder a una gran cantidad de usuarios al mismo tiempo.
 4.	**Flexibilidad:** Facilita que se añadan nuevas funcionalidades, sin alterar los servicios existentes.  
 
