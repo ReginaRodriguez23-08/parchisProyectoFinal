@@ -4,7 +4,7 @@ Integrantes: Aldo Soria, Regina Rodríguez y Juan Manuel Ambriz
 Repositorio para el proyecto final de Ingenieria de Software  
 
 ## [Software Requirements](Requerimientos.pdf) 
-
+## Casos de uso: ([https://github.com/ReginaRodriguez23-08/parchisProyectoFinal/tree/72c7fefe3daafe6f410c90495f27a739f3812657/Casos%20de%20Uso])
 ## [Plan de calidad](PlandeCalidad.pdf) 
 
 ## Arquitectura
